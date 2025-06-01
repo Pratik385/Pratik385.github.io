@@ -9,7 +9,7 @@
       🌐 <a href="https://github.com/Pratik385">github.com/Pratik385</a>
     </td>
     <td style="text-align: right;">
-      <img src="pratik_photo-recent.jpg" alt="Pratik Sarkar" style="width: 110px; border-radius: 10px;" />
+      <img src="pratik_photo-recent.jpg" alt="Pratik Sarkar" style="width: 90px; border-radius: 10px;" />
     </td>
   </tr>
 </table>
