@@ -1,6 +1,6 @@
 <!--![Pratik Sarkar](pratik_photo-recent.jpg) -->      <!--This is used for comment out in md format-->
 <!-- <img src="pratik_photo-recent.jpg" alt="Pratik Sarkar" style="width: 120px; float: right; border-radius: 8px; margin-left: 20px;" />  -->
-<table border="1">
+<table>
   <tr>
     <td>
       <h1>Pratik Sarkar</h1>
@@ -9,10 +9,11 @@
       🌐 <a href="https://github.com/Pratik385">github.com/Pratik385</a>
     </td>
     <td style="text-align: right;">
-      <img src="pratik_photo-recent.jpg" alt="Pratik Sarkar" style="width: 90px; border-radius: 10px;" />
+      <img src="pratik_photo-recent.jpg" alt="Pratik Sarkar" style="width: 110px; border-radius: 10px;" />
     </td>
   </tr>
 </table>
+
 
 
 
