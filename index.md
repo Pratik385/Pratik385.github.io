@@ -4,15 +4,16 @@
   <tr>
     <td>
       <h1>Pratik Sarkar</h1>
-      <p><em>Ph.D. Candidate, Department of Chemistry, IIT Kharagpur</em></p>
-      <p>📧 pratiksarkar7320@gmail.com<br/>
-         🌐 <a href="https://github.com/Pratik385">github.com/Pratik385</a></p>
+      <strong>Ph.D. Candidate, Department of Chemistry, IIT Kharagpur</strong><br/>
+      📧 pratiksarkar7320@gmail.com<br/>
+      🌐 <a href="https://github.com/Pratik385">github.com/Pratik385</a>
     </td>
     <td style="text-align: right;">
-      <img src="pratik_photo-recent.jpg" alt="Pratik Sarkar" style="width: 100px; border-radius: 10px;" />
+      <img src="pratik_photo-recent.jpg" alt="Pratik Sarkar" style="width: 110px; border-radius: 10px;" />
     </td>
   </tr>
 </table>
+
 
 
 
