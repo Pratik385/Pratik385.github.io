@@ -1,4 +1,6 @@
-![Pratik Sarkar](pratik_photo-recent.jpg)
+<!--![Pratik Sarkar](pratik_photo-recent.jpg) -->      <!--This is used for comment out in md format-->
+<img src="pratik_photo-recent.jpg" alt="Pratik Sarkar" style="width: 120px; float: right; border-radius: 8px; margin-left: 20px;" />
+
 
 # Pratik Sarkar
 
