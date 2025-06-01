@@ -1,12 +1,26 @@
 <!--![Pratik Sarkar](pratik_photo-recent.jpg) -->      <!--This is used for comment out in md format-->
-<img src="pratik_photo-recent.jpg" alt="Pratik Sarkar" style="width: 120px; float: right; border-radius: 8px; margin-left: 20px;" />
+<!-- <img src="pratik_photo-recent.jpg" alt="Pratik Sarkar" style="width: 120px; float: right; border-radius: 8px; margin-left: 20px;" />  -->
+<table>
+  <tr>
+    <td>
+      <h1>Pratik Sarkar</h1>
+      <p><em>Ph.D. Candidate, Department of Chemistry, IIT Kharagpur</em></p>
+      <p>📧 pratiksarkar7320@gmail.com<br/>
+         🌐 <a href="https://github.com/Pratik385">github.com/Pratik385</a></p>
+    </td>
+    <td style="text-align: right;">
+      <img src="pratik_photo-recent.jpg" alt="Pratik Sarkar" style="width: 100px; border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
 
 
-# Pratik Sarkar
 
-_Ph.D. Candidate, Department of Chemistry, IIT Kharagpur_  
-📧 pratiksarkar7320@gmail.com  
-🌐 [GitHub](https://github.com/Pratik385)
+<!--# Pratik Sarkar -->
+
+<!-- _Ph.D. Candidate, Department of Chemistry, IIT Kharagpur_  -->
+<!-- 📧 pratiksarkar7320@gmail.com  -->
+<!-- 🌐 [GitHub](https://github.com/Pratik385)  -->
 
 ---
 
