@@ -1,3 +1,5 @@
+![Pratik Sarkar](pratik_photo-recent.jpg)
+
 # Pratik Sarkar
 
 _Ph.D. Candidate, Department of Chemistry, IIT Kharagpur_  
