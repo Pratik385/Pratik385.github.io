@@ -7,7 +7,7 @@
 **Ph.D. Candidate, Department of Chemistry, IIT Kharagpur**  
 📧 pratiksarkar7320@gmail.com  
 🌐 [GitHub](https://github.com/Pratik385)  
-🧬 [ORCID]([https://orcid.org/0000-0000-0000-0000](https://orcid.org/0000-0003-1453-8875))
+🧬 [ORCID](https://orcid.org/0000-0003-1453-8875)
 
   </td>
   <td style="text-align: right;">
@@ -27,11 +27,14 @@ Ph.D. candidate in Chemistry at IIT Kharagpur, specialising in **Computational C
 ## 🎓 Education
 
 - **Ph.D. in Chemistry (2019-Present)** – IIT Kharagpur (2019–Present)  
-<!-- - **M.Sc. in Chemistry (Physical Chemistry)** – Vidyasagar University (2017) – 65.5%  
+<!-- 
+- **M.Sc. in Chemistry (Physical Chemistry)** – Vidyasagar University (2017) – 65.5%  
 - **B.Ed** – University of Burdwan (2015) – 81%  
-- **B.Sc. (Hons) in Chemistry** – University of Calcutta (2014) – 57%  -->
-<!-- - **H.S.** – W.B.C.H.S.E (2010) – 77.6%  
-- **M.P.** – W.B.B.S.E (2008) – 91.5% -->
+- **B.Sc. (Hons) in Chemistry** – University of Calcutta (2014) – 57%  
+- **H.S.** – W.B.C.H.S.E (2010) – 77.6%  
+- **M.P.** – W.B.B.S.E (2008) – 91.5%  
+-->
+
  
 
 ---
