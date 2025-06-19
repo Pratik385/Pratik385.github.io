@@ -29,7 +29,7 @@ Ph.D. candidate in Chemistry at IIT Kharagpur, specialising in **Computational C
 - **Ph.D. in Chemistry (2019-Present)** – IIT Kharagpur (2019–Present)  
 <!-- - **M.Sc. in Chemistry (Physical Chemistry)** – Vidyasagar University (2017) – 65.5%  
 - **B.Ed** – University of Burdwan (2015) – 81%  
-- **B.Sc. (Hons) in Chemistry** – University of Calcutta (2014) – 57%  
+- **B.Sc. (Hons) in Chemistry** – University of Calcutta (2014) – 57%  -->
 <!-- - **H.S.** – W.B.C.H.S.E (2010) – 77.6%  
 - **M.P.** – W.B.B.S.E (2008) – 91.5% -->
  
