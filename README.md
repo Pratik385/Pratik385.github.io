@@ -18,6 +18,11 @@ Scan this to open my online resume:
 - "Computational discovery of high-performance B–Al–Ga ..."  
   [DOI: 10.1039/D5CP03587B](https://doi.org/10.1039/D5CP03587B)
 
+Scan this QR code to open the publication:  
+[https://doi.org/10.1039/D5CP03587B](https://doi.org/10.1039/D5CP03587B)
+
+![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://doi.org/10.1039/D5CP03587B)
+
 <!-- 
   Authors: Pratik Sarkar, Maya Khatun, Anakuthil Anoop
   Journal: Physical Chemistry Chemical Physics
@@ -25,3 +30,4 @@ Scan this to open my online resume:
   Accepted: 24 Oct 2025
   Published: 03 Nov 2025
 -->
+
